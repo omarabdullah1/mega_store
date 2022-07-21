@@ -2,7 +2,7 @@
 
 Mega market flutter app.
 
-<a target="_blank" rel="Mega Market" href="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/1.png"><img src="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/1.png" alt=" Mega Market" width="250" title="Mega Market" style="max-width: 100%;"></a>
+<a target="_blank" rel="Mega Market" href="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/1.png"><img src="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/1.png" alt=" Mega Market" width="200" title="Mega Market" style="max-width: 100%;"></a>
 <a target="_blank" rel="Mega Market" href="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/2.png"><img src="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/2.png" alt=" Mega Market" width="250" title="Mega Market" style="max-width: 100%;"></a>
 <a target="_blank" rel="Mega Market" href="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/3.png"><img src="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/3.png" alt=" Mega Market" width="250" title="Mega Market" style="max-width: 100%;"></a>
 <a target="_blank" rel="Mega Market" href="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/4.png"><img src="https://github.com/omarabdullah1/mega_store/blob/main/assets/screens/4.png" alt=" Mega Market" width="250" title="Mega Market" style="max-width: 100%;"></a>
